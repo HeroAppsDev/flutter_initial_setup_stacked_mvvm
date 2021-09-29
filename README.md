@@ -1,4 +1,4 @@
-# initial_setup_flutter_stacked_mvvm
+# flutter_initial_setup_stacked_mvvm
 
 A new Flutter project.
 
